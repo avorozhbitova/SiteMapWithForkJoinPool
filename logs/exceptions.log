@@ -1,0 +1,54 @@
+2021-07-14 21:03:35.763 [ForkJoinPool-1-worker-3] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/media/authors/uliana-ravedovskaya/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:03:42.547 [ForkJoinPool-1-worker-9] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/course/profession-instagram-marketolog-new/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:03:46.652 [ForkJoinPool-1-worker-3] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/courses/data-science/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:03:46.967 [ForkJoinPool-1-worker-5] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/course/profession-narrator/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:03:47.087 [ForkJoinPool-1-worker-5] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/media/gamedev/interview_andrey_nyanchuk_1/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:03:47.669 [ForkJoinPool-1-worker-7] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/course/studio/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:03:51.533 [ForkJoinPool-1-worker-7] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/python-data/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:04:09.747 [ForkJoinPool-1-worker-5] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/context/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:04:14.052 [ForkJoinPool-1-worker-9] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/course/3d-artist-new/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:04:24.870 [ForkJoinPool-1-worker-7] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/media/design/chto_takoe_3d_grafika_i_kak_ona_ustroena/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:04:25.526 [ForkJoinPool-1-worker-7] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/course/python-data/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:04:38.942 [ForkJoinPool-1-worker-13] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/media/base/10/java/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:04:41.854 [ForkJoinPool-1-worker-5] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/course/profession-1c-new1/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:04:48.646 [ForkJoinPool-1-worker-9] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/media/gamedev/cd_project_red_atakovali_khakery_vas_epicheski_poimeli_/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:04:57.911 [ForkJoinPool-1-worker-13] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/course/profession-interiordesigner-new/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:05:04.187 [ForkJoinPool-1-worker-5] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/media/authors/zoya-alexeeva/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:05:10.181 [ForkJoinPool-1-worker-5] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/course/profession-sports-manager-new/
+Ошибка: HTTP error fetching URL
+2021-07-14 21:05:35.940 [ForkJoinPool-1-worker-5] FATAL HtmlParserTask - Поймано исключение при работе с ссылкой:
+https://skillbox.ru/course/game-market-analyst-new/
+Ошибка: HTTP error fetching URL
